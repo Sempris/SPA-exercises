@@ -1,0 +1,38 @@
+.intro {
+    background-color: #cee4fd;
+    color: #4e759d;
+    padding: 10px;
+    width: 90%;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+.intro > p {
+    margin: 10px;
+}
+
+.heading1 {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.hide {
+    display: none;
+}
+
+.btn {
+    float: right;
+    margin: 20px 100px 20px 20px;
+}
+
+.choice {
+    background-color: blue;
+}
+
+.selection {
+    background-color: #d5f2d9;
+    padding: 10px;
+    width: 90%;
+    margin: 0 auto;
+    border-radius: 10px;
+}
