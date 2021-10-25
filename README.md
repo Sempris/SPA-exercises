@@ -2,5 +2,5 @@
 
 All exercises from SPA module at DCI:
 
-- 25.10.21: Toggle items by clicking on a button (+Bootstrap).
+- 25.10.21: Toggle items by clicking on a button (Vanila JS, Bootstrap).
 - 26.10.21: 
