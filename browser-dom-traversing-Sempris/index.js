@@ -24,6 +24,16 @@ function labelCheck() {
             item.classList.contains('intense') ? item.style.borderBottom = '2px solid orange' :
                 item.style.borderBottom = '2px solid red';
     })
+    //     if (item.classList.contains('mild')) {
+    //         item.style.borderBottom = '2px solid yellow';
+    //     }
+    //     else if (item.classList.contains('intense')) {
+    //         item.style.borderBottom = '2px solid orange';
+    //     }
+    //     else {
+    //         item.style.borderBottom = '2px solid red';
+    //     }
+    // })
 }
 labelCheck();
 
