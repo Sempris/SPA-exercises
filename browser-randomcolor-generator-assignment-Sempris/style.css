@@ -1,0 +1,104 @@
+#loading {
+  font-size: 1.25rem;
+  color: #777;
+}
+
+#colors {
+  display: flex;
+  flex-flow: row wrap;
+  margin: 0;
+  padding: 0;
+}
+
+#colors .color {
+  position: relative;
+  list-style: none;
+  padding: 0;
+  border-radius: 0.25rem;
+  line-height: 10rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+  flex-basis: 100%;
+  margin: 0 0 5% 0;
+}
+
+.form-inline {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+#color-amount {
+  width: 45%;
+  margin-right: 20px;
+}
+
+#btn-random {
+  width: 10%;
+}
+
+.new-div {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 2rem;
+  color: #fff;
+  text-shadow: 2px 2px 2px black;
+}
+
+.close-div {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 25px;
+  height: 25px;
+  background-color: grey;
+  color: #fff;
+  border-radius: 5px;
+  font-size: 1.2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 2px 2px 2px black;
+  cursor: pointer;
+}
+
+@media screen and (min-width: 520px) {
+  #colors .color {
+    flex-basis: 45%;
+    margin: 0 5% 5% 0;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  #colors .color {
+    flex-basis: 25%;
+    margin: 0 5% 5% 0;
+  }
+}
+
+#colors .color:before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+}
+
+#colors .btn-delete {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  width: 1.5rem;
+  height: 1.5rem;
+  padding: 0;
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
