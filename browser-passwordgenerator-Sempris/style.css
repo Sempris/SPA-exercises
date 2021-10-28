@@ -1,0 +1,68 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url('./bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h1 {
+    color: #fff;
+    font-size: 3rem;
+}
+
+.output {
+    margin: 25px 0;
+    padding: 15px;
+    font-size: 2rem;
+    border: 1px solid grey;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px dimgray;
+    background-color: #cef9fc;
+}
+
+.input {
+    margin: 25px 0;
+    font-size: 2rem;
+    color: #fff;
+}
+
+.digit-number {
+    font-size: 2rem;
+    padding: 10px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    width: 100px;
+    margin-right: 20px;
+    background-color: #cef9fc;
+    box-shadow: 3px 3px 3px dimgray;
+}
+
+input[type=checkbox] {
+    width: 25px;
+    height: 25px;
+}
+
+.btn {
+    font-size: 2rem;
+    background-color: #30ac4b;
+    color: #fff;
+    padding: 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 3px 3px 3px dimgray;
+}
+
+.btn:hover {
+    text-shadow: 2px 2px 2px dimgray;
+}
