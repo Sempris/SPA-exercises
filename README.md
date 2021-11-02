@@ -7,3 +7,4 @@ All exercises from SPA module at DCI:
 - 27.10.21: DOM Events (addEventlistener, preventDefault etc.). Two exercises: calculator and random color generator with DOM remove.
 - 28.10.21: Event Delegation. Exercises: DOM remove with event delegation, Quote of the Day (random quote from array by click), Password Generator.
 - 1.11.21: Event Listeners, Exercises: ToDo List, Random World Generator (the task exceeded to a simple clicker game).
+- 2.11.21: ES6 Modules, export and import. Exercises: simple export-import practice with "Knit-This" page.
