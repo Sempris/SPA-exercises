@@ -9,13 +9,16 @@ function random() {
 const output = document.querySelector('.output');
 const button = document.querySelector('.btn');
 const digits = document.querySelector('.digit-number');
-const check = document.querySelector('.check').value;
+const check = document.querySelector('.check');
 
 function createPassword() {
-    for (i = 0; i < Number(digits.value); i++) {
-        output.innerHTML += charArr[random(charArr)];
-        if (check == 'on' && i % 3 == 0) {
-            output.innerHTML += charArr[random(charArr)].toUpperCase();
+    for (i = 1; i < Number(digits.value); i++) {
+        let index = random(charArr);
+        if (check.checked && i % 3 == 0) {
+            output.innerHTML += charArr[index].toUpperCase();
+        }
+        else {
+            output.innerHTML += charArr[index];
         }
     }
 };
