@@ -9,3 +9,4 @@ All exercises from SPA module at DCI:
 - 1.11.21: Event Listeners, Exercises: ToDo List, Random World Generator (the task exceeded to a simple clicker game).
 - 2.11.21: ES6 Modules, export and import. Exercises: simple export-import practice with "Knit-This" page, Advanced calculator with export-import.
 - 3.11.21: Introduction to NPM (node modules). Exercises: installing and modifying packages with npm commands.
+- 4.11.21: JSON Introduction
