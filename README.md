@@ -12,3 +12,4 @@ All exercises from SPA module at DCI:
 - 4.11.21: JSON Introduction. Exercise with npm - Bakery Shop (not included into files because it has too much npm files).
 - 5.11.21: Local Storage. Exercise: localstorage-poll-assignment.
 - 8.11.21: JavaScript Promises. Exercises: spa-promises.
+- 9.11.21: Try-Catch debugging approach, async-await logic. Exercise: async-await-assignment.
