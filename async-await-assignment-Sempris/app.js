@@ -28,3 +28,30 @@ async function getImg() {
 }
 
 getImg(); // image inside the body   <-- after 2 seconds
+
+// Assignment 3
+
+async function getOffers() {
+	return Promise.resolve('the are 10 offers 😀  ');
+	// return Promise.reject(new Error('sorry we have an error connecting to the server! '))
+}
+
+async function catchFunction() {
+	try {
+		return await getOffers();
+		// here you need to call getOffers using await 
+		// you need to return the value of calling getOffers
+
+	} catch (err) {
+		// here you need to log the error message
+		console.log(err);
+		return 'no data found 😑';
+	}
+}
+
+async function run() {
+	const value = await catchFunction();
+	console.log(value);
+}
+
+run();
