@@ -13,3 +13,4 @@ All exercises from SPA module at DCI (exercises' names correspond to repo's dire
 - 5.11.21: Local Storage. Exercise: localstorage-poll-assignment.
 - 8.11.21: JavaScript Promises. Exercises: spa-promises.
 - 9.11.21: Try-Catch debugging approach, async-await logic. Exercise: async-await-assignment.
+- 10.11.21: Fetch API. Exercises: spa-fetch-api-assignment.
