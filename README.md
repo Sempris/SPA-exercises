@@ -15,3 +15,4 @@ All exercises from SPA module at DCI (exercises' names correspond to repo's dire
 - 9.11.21: Try-Catch debugging approach, async-await logic. Exercise: async-await-assignment.
 - 10.11.21: Fetch API. Exercises: spa-fetch-api-assignment, spa-fetch-movies.
 - 11.11.21: Test Day.
+- 15.11.21: Introduction to React.
