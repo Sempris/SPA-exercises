@@ -16,3 +16,4 @@ All exercises from SPA module at DCI (exercises' names correspond to repo's dire
 - 10.11.21: Fetch API. Exercises: spa-fetch-api-assignment, spa-fetch-movies.
 - 11.11.21: Test Day.
 - 15.11.21: Introduction to React.
+- 16.11.21: React Props. Exercise: 
