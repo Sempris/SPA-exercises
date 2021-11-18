@@ -1,0 +1,16 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.buttons {
+    width: auto;
+    margin: 50px auto;
+}
+
+.buttons button {
+    margin-right: 20px;
+}
