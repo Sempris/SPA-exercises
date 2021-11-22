@@ -17,4 +17,5 @@ All exercises from SPA module at DCI (exercises' names correspond to repo's dire
 - 11.11.21: Test Day.
 - 15.11.21: Introduction to React.
 - 16.11.21: React Props. Exercise: react-counter.
-- 18.11.21: React Props and State, Ternary Condition. Exercises: react-props, spa-component-conditional-rendering.
+- 18.11.21: React Props and useState hook, Ternary Condition. Exercises: react-props, spa-component-conditional-rendering.
+- 22.11.21: React inline styling, useEffect hook.
