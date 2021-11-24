@@ -20,4 +20,4 @@ All topics and exercises from SPA module at DCI (exercises' names correspond to 
 - 18.11.21: React Props and useState hook, Ternary Condition. Exercises: react-props, spa-component-conditional-rendering.
 - 22.11.21: React inline styling, useEffect hook. Exercise: spa-lightswitch.
 - 23.11.21: Continue with useEffect. Exercise: spa-react-movie-search.
-- 24.11.21: useRef React hook.
+- 24.11.21: useRef React hook. Exercise: spa-react-note.
