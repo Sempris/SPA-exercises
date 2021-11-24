@@ -19,3 +19,5 @@ All exercises from SPA module at DCI (exercises' names correspond to repo's dire
 - 16.11.21: React Props. Exercise: react-counter.
 - 18.11.21: React Props and useState hook, Ternary Condition. Exercises: react-props, spa-component-conditional-rendering.
 - 22.11.21: React inline styling, useEffect hook.
+- 23.11.21: Continue with useEffect. Exercise: movie API fetch.
+- 24.11.21: useRef React hook.
