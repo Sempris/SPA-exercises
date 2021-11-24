@@ -1,6 +1,6 @@
-# SPA-exercises
+# SPA Topics and Exercises
 
-All exercises from SPA module at DCI (exercises' names correspond to repo's directory names):
+All topics and exercises from SPA module at DCI (exercises' names correspond to repo's directory names):
 
 - 25.10.21: Toggle items by clicking on a button (Vanila JS, Bootstrap). Exercise: browser-toggleitems.
 - 26.10.21: DOM Traversing (children, siblings, append etc.). Exercise: browser-dom-traversing.
