@@ -21,3 +21,4 @@ All topics and exercises from SPA module at DCI (exercises' names correspond to 
 - 22.11.21: React inline styling, useEffect hook. Exercise: spa-lightswitch.
 - 23.11.21: Continue with useEffect. Fetch API and use JSON data within React. Exercise: spa-react-movie-search, spa-react-note.
 - 24.11.21: useRef React hook.
+- 25.11.21: Axios.
