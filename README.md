@@ -23,4 +23,5 @@ All topics and exercises from SPA module at DCI (exercises' names correspond to 
 - 24.11.21: useRef React hook.
 - 25.11.21: Axios.
 - 29.11.21: React Router. Exercise: spa-react-router.
-- 30.11.21: Nested Routing, useParam, useNavigate. Exercise: spa-router-dog-finder,
+- 30.11.21: Nested Routing, useParam, useNavigate. Exercise: spa-router-dog-finder.
+- 1.12.21: Context API, useContext hook.
