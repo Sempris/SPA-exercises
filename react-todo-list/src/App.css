@@ -1,0 +1,22 @@
+.App {
+    text-align: center;
+}
+
+.btn {
+    margin: 0 10px;
+}
+
+.list {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.listItem {
+    margin: 20px 0;
+}
+
+.itemText {
+    margin: 10px 0;
+}
