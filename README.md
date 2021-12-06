@@ -26,3 +26,4 @@ All topics and exercises from SPA module at DCI (exercises' names correspond to 
 - 30.11.21: Nested Routing, useParam, useNavigate. Exercise: spa-router-dog-finder.
 - 1.12.21: Context API, useContext hook.
 - 2.12.21: ToDo App with React live coding session. Exercise: react-todo-list.
+- 6.12.21: Context API live coding session.
