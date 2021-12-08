@@ -28,3 +28,4 @@ All topics and exercises from SPA module at DCI (exercises' names correspond to 
 - 2.12.21: ToDo App with React live coding session. Exercise: react-todo-list.
 - 6.12.21: Context API live coding session. Exercise: react-context-api-2. 
 - 7.12.21: useReducer hook. Exercises: react-usereducer, react-usereducer-2, react-usereducer-3
+- 8.12.21: ReactBootstrap library.
