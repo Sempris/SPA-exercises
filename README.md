@@ -32,3 +32,5 @@ All topics and exercises from SPA module at DCI (exercises' names correspond to 
 - 9.12.21: React Deployment Practice. See [this link](https://github.com/Sempris/react-deployment-practice)
 - 13.12.21: Test Day.
 - 14.12.21: Redux intro.
+- 15.12.21: Redux.
+- 16.12.21: React Testing Library.
